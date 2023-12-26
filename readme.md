@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm an aspiring data scientist, currently studying Informa
 - **Customer Segmentation and Churn Prediction**: Enhanced customer retention strategies in the telecommunications industry.
 - **Quantitiy Prediction And Customer Segmentation**: Implemented a model for quantity prediction using regression techniques and segmented customers into distinct clusters using k-means clustering.
 - **UTBK Score Analysis**: Analyzed the distribution of UTBK scores to enter STEI-K ITB using python pandas and excel.
-- **Predicting Credit Card Approvals**: Conducted research and built object detection model to infer possible anomaly made using YOLOv8.
+- **Predicting Credit Card Approvals**: Built an automatic credit card approval predictor using machine learning techniques.
 
 ## 🛠 Skills
 - **Languages**: Python, C, C++
